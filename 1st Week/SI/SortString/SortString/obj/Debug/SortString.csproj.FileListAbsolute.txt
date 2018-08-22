@@ -1,0 +1,7 @@
+C:\Users\ujfal\source\repos\TimerEvents\SortString\SortString\obj\Debug\SortString.csproj.CoreCompileInputs.cache
+C:\Users\ujfal\source\repos\TimerEvents\SortString\SortString\bin\Debug\SortString.exe.config
+C:\Users\ujfal\source\repos\TimerEvents\SortString\SortString\bin\Debug\SortString.exe
+C:\Users\ujfal\source\repos\TimerEvents\SortString\SortString\bin\Debug\SortString.pdb
+C:\Users\ujfal\source\repos\TimerEvents\SortString\SortString\obj\Debug\SortString.exe
+C:\Users\ujfal\source\repos\TimerEvents\SortString\SortString\obj\Debug\SortString.pdb
+C:\Users\ujfal\source\repos\TimerEvents\SortString\SortString\obj\Debug\SortString.csprojAssemblyReference.cache
